@@ -47,6 +47,10 @@
     "typescript": "^3.7.5",
     "typings": "^2.1.1"
   },
+  "files": [
+    "dist/**/*.{js,ts,tsbuildinfo}",
+    "docs/**/*.*"
+  ],
   "homepage": "https://github.com/ehacke/instawrap#readme",
   "husky": {
     "hooks": {
