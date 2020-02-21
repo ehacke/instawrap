@@ -1,4 +1,9 @@
 # instawrap
+
+[![CircleCI](https://circleci.com/gh/ehacke/instawrap/tree/master.svg?style=svg)](https://circleci.com/gh/ehacke/instawrap/tree/master)
+
+[![codecov](https://codecov.io/gh/ehacke/instawrap/branch/master/graph/badge.svg)](https://codecov.io/gh/ehacke/instawrap)
+
 Instantiates all classes in the structure and wraps each function. 
 
 The reason I created this was so that I could walk the entire tree of express controller classes, instantiate each
