@@ -29,7 +29,7 @@
     "eslint": "^6.8.0",
     "eslint-import-resolver-typescript": "^2.0.0",
     "eslint-plugin-simple-import-sort": "^5.0.0",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^11.4.1",
     "fixpack": "^3.0.5",
     "getenv": "^1.0.0",
     "husky": "^4.0.10",
